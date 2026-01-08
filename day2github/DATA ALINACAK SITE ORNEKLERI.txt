@@ -1,8 +1,0 @@
-1- https://catalog.data.gov/dataset/
-2- https://www.nasa.gov/stem-content/datanauts/
-3- https://www.kaggle.com/datasets
-4- https://archive.ics.uci.edu/datasets
-5- https://poe.com/ ( BURASI BIZIM HATALARIMIZI DUZELTEN YAPAY ZEKA SITESIDIR )
-6- https://pyiron.org/
-7- HTTPS:// colab.research sitesi de bizim cok kullanacagimiz
-8- 
